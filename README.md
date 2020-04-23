@@ -3,4 +3,4 @@ Till April 22, the number of people confirmed to have COVID-19 has surpassed 0.8
 
 The dots in the project represent the username in the data.Hence, this is a dot map using the density to indicate which area or even states in the United States have comparable more comments about the virus. Given the map,most comments are from the east coastal area like New York. the reason that tons of dots cluster in there probably because new york is the most hardest hit area over the virus in the U.S and people who reside there try to use social media to alleviate their panic.
 
-![COVID-19](COVID-19.png)
+![](images/COVID-19.png)
